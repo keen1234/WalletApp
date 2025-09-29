@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870881221201",
+    "project_id": "walletapp-4f809",
+    "storage_bucket": "walletapp-4f809.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870881221201:android:d51422c414920ec5f13670",
+        "android_client_info": {
+          "package_name": "com.example.walletapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi3Wexzm80cCoIDfTCmng9BYXDn7Oe_xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
